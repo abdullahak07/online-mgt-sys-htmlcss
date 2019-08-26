@@ -1,0 +1,80 @@
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 09-APR-2013 13:40:25
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 16-APR-2013 21:04:31
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 16-APR-2013 21:04:39
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 16-APR-2013 21:04:44
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 16-APR-2013 21:07:29
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 16-APR-2013 21:07:37
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 18-APR-2013 09:21:15
+  Tracing not turned on.
+
+
+***********************************************************************
+Fatal NI connect error 6413, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleXE)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=XE)(CID=(PROGRAM=C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\9.0\WebDev.WebServer.EXE)(HOST=SAMSUNG-I5)(USER=Badman))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 18-APR-2013 20:36:30
+  Tracing not turned on.

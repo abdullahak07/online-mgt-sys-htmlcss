@@ -1,0 +1,157 @@
+﻿<%@ Master Language="VB" CodeFile="LoginMasterPage.master.vb" Inherits="LoginMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 10px;
+        }
+        .style7
+        {
+            width: 90%;
+            height: 529px;
+        }
+        .style8
+        {
+        }
+        .style11
+        {
+            width: 251px;
+            height: 23px;
+        }
+        .style13
+        {
+            width: 299px;
+            height: 23px;
+        }
+        .style14
+        {
+            width: 273px;
+            height: 23px;
+        }
+        .style15
+        {
+            width: 374px;
+            height: 23px;
+        }
+        .style16
+        {
+            width: 100%;
+            height: 446px;
+            background-image: url('Images/vector.jpg');
+        }
+        .style18
+        {}
+        .style20
+        {
+            width: 161px;
+        }
+        .style21
+        {
+            height: 23px;
+        }
+    </style>
+
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body bgcolor="#660066"><form id="form1" runat="server">
+    <div>
+        <table class="style1">
+            <tr>
+                <td>
+    
+        <table class="style1">
+            <tr>
+                <td>
+                    <hr style="text-decoration: blink; font-family: Arial; font-size: large; background-color: #FFFF00; height: 6px; color: #FFFF00; width: 1198px; margin-left: 0px;" />
+                </td>
+            </tr>
+            </table>
+    
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/HEAD.jpg" 
+                        Width="1202px" />
+                </td>
+            </tr>
+            </table>
+    
+    </div>
+<table class="style7" bgcolor="white">
+    <tr>
+        <td class="style8" colspan="4">
+            
+                <table class="style16">
+                    <tr>
+                        <td class="style20">
+                            <asp:ImageButton ID="ImageButton1" runat="server" 
+                                ImageUrl="~/Images/homeredbtn.jpg" Width="165px" 
+                                PostBackUrl="~/Home.aspx" />
+                        </td>
+                        <td class="style18" rowspan="6">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style20">
+                            <asp:ImageButton ID="ImageButton3" runat="server" 
+                                ImageUrl="~/Images/INVOLVEbtn.JPG" Width="165px" 
+                                PostBackUrl="~/Volunteer.aspx" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style20">
+                            <asp:ImageButton ID="ImageButton4" runat="server" 
+                                ImageUrl="~/Images/SPONSORbtn.JPG" Width="165px" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style20">
+                            <asp:ImageButton ID="ImageButton5" runat="server" 
+                                ImageUrl="~/Images/DONATEbtn.JPG" Width="165px" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style20">
+                            <asp:ImageButton ID="ImageButton6" runat="server" 
+                                ImageUrl="~/Images/VISITbtn.JPG" Width="165px" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="style20">
+                            &nbsp;</td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+    <tr>
+        <td class="style21" colspan="2" align="left" 
+            style="font-size: large; color: #0000FF; font-family: 'Arial Black'">
+            Recommend us on Facebook......<asp:ImageButton ID="ImageButton8" runat="server" 
+                ImageUrl="~/Images/icon.png" PostBackUrl="https://www.facebook.com/" />
+            </td>
+        <td class="style21" colspan="2" style="color: #808080">
+            Online Orphanage: Designed and developed by Afreen Khan10BCA03</td>
+    </tr>
+    <tr>
+        <td class="style11" bgcolor="#CC0000">
+            TERMS AND CONDITIONS</td>
+        <td class="style14" bgcolor="Yellow">
+            PRIVACY POLICY</td>
+        <td class="style13" bgcolor="#66FF33">
+            RELATED SEARCHES</td>
+        <td class="style15" bgcolor="#FF66FF">
+            CONTACT ADDRESS</td>
+    </tr>
+</table>
+    </form>
+   
+</body>
+
+</html>
